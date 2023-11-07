@@ -99,3 +99,11 @@ a{
     }
 }
 
+.ql-container{
+    font-size: 28px !important; 
+
+}
+
+.quill > .ql-container.ql-bubble > .ql-editor.ql-blank::before{
+    color: #b3b3b1;
+}
